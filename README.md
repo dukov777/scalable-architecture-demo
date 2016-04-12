@@ -29,3 +29,7 @@ npm run generate.manifest.prod
 npm run generate.manifest.dev
 ```
 
+# License
+
+MIT
+
