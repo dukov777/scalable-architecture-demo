@@ -1,4 +1,8 @@
-# How to start
+# Introduction
+
+Sample architecture from my blog post "[Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)".
+
+## How to start
 
 **Note** that this seed project requires node v4.x.x or higher and npm 2.14.7.
 
@@ -6,7 +10,7 @@ In order to start the seed use:
 
 
 ```bash
-git clone --depth 1 https://github.com/mgechev/angular2-seed.git
+git clone --depth 1 https://github.com/mgechev/scalable-architecture-demo.git
 cd angular2-seed
 # install the project's dependencies
 npm install
